@@ -135,15 +135,12 @@ img{
     margin-left: 50px;
     height: 50px;
 }
-/* .low{
+.low{
     display: flex;
     list-style: none;
     position: relative;
-    /* text-align: center; */
-    width: 100%;
-    justify-content: center;
-    
-} */
+}
+ 
 .h{
     text-decoration: none;
     color: black;
